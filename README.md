@@ -223,43 +223,6 @@ Potential improvement opportunities were identified to improve:
 
 ---
 
-# Results
-
-| 1. Project Charter |
-|-----------------------|
-| ![Project Charter](Results/project_charter_banner.png) |
-| Six Sigma QA/QC project charter defining business problem, goals, stakeholders, and project scope. |
-
----
-
-| 2. SIPOC Diagram |
-|-----------------------|
-| ![SIPOC Diagram](Results/SIPOC_Diagram_Construction_QAQC.png) |
-| SIPOC analysis identifying suppliers, inputs, process activities, outputs, and customers within the inspection workflow. |
-
----
-
-| 3. Process Flow Diagram |
-|-----------------------|
-| ![Process Flow Diagram](Results/professional_vertical_process_flow.png) |
-| Professional construction QA/QC inspection workflow process map showing approval and rework activities. |
-
----
-
-| 4. Fishbone Diagram |
-|-----------------------|
-| ![Fishbone Diagram](Results/Final_Clean_Fishbone_Diagram.png) |
-| Root cause analysis identifying operational issues contributing to inspection delays and rework activities. |
-
----
-
-| 5. Data Collection Plan |
-|-----------------------|
-| ![Data Collection Plan](Results/data_collection_plan.png) |
-| KPI measurement and operational data collection planning for process performance evaluation. |
-
----
-
 # Key Findings & Business Recommendations
 
 ## Key Findings
