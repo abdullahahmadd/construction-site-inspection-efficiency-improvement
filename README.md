@@ -128,19 +128,6 @@ This project applies the Six Sigma DMAIC methodology:
 
 ---
 
-# Tools & Technologies Used
-
-- Microsoft Word
-- Lean Six Sigma Methodology
-- DMAIC Framework
-- SIPOC Analysis
-- Fishbone Diagram
-- Process Mapping
-- Root Cause Analysis
-- QA/QC Operational Analysis
-
----
-
 # Skills Demonstrated
 
 - Process Improvement
