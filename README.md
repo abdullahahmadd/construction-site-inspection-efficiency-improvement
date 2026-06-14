@@ -1,4 +1,4 @@
-# Improving Construction Site Inspection Efficiency Using Six Sigma DMAIC Methodology
+# Improving Construction Site Inspection Efficiency (QA/QC)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullahahmadd.construction-site-inspection-efficiency-improvement)
 ![Six Sigma](https://img.shields.io/badge/Six%20Sigma-Process%20Improvement-blue)
